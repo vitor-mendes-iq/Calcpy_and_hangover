@@ -1,6 +1,6 @@
 # Studies in Python
 
-## POO
+## Object-oriented programming (OOP)
 
 #### Hangman(jogodaforca)
 #### CalcPOO
