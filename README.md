@@ -1,1 +1,8 @@
-# vitor.mendes.ag-gmail.com
+# Studies in Python
+
+## POO
+
+#### Hangman(jogodaforca)
+#### CalcPOO
+
+
