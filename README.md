@@ -3,6 +3,6 @@
 ## Object-oriented programming (OOP)
 
 #### Hangman(jogodaforca)
-#### CalcPOO
+
 
 
